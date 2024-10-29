@@ -1,0 +1,8 @@
+venv/
+.env
+__pychache__
+__pycache__/connection.cpython-311.pyc
+__pycache__/main.cpython-311.pyc
+__pycache__/searchshipping.cpython-311.pyc
+requirements-local.txt
+LogGenerator.py
